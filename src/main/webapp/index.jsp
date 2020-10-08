@@ -6,7 +6,7 @@
    <body>
 
 	   
-	   <h1>Hello world!!</h1>
+	   <h1>Hello world!! 2</h1>
 	   
       Which one will it be for you today?<br/>
       <a href="#" onclick="playRoshambo('rock')"> rock </a>
